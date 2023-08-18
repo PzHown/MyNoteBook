@@ -65,7 +65,7 @@ __粗体__
 ```markdown
 ![Alt Text](url)
 ```
-![GitHub Logo](img/github_logo.png)
+![GitHub Logo](../img/github_logo.png)
 
 ### 链接
 链接格式[Name](url)支持自动生成
